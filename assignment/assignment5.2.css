@@ -9,6 +9,7 @@ body {
 .container {
     background-color: rgb(208, 102, 166);
     margin-bottom:3%;
+    font-size: large;
 }
 
 header {
@@ -19,5 +20,7 @@ text-align: center; /* Center the text in the header. */
 
 main { 
     background-color: lightgrey;/* Give the main a light grey background color. */
-padding: 1em;
+    padding: 1em;
+    font-size: large;
+
 }
