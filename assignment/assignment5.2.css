@@ -1,0 +1,23 @@
+
+body {
+    background-image: url('record.png');
+    background-position: center; 
+    background-repeat: repeat;
+    margin: 0;
+} 
+
+.container {
+    background-color: rgb(208, 102, 166);
+    margin-bottom:3%;
+}
+
+header {
+background-color: rgb(43, 50, 9);/* Give the header a dark background color and choose a light color for the text. */
+color: bisque;
+text-align: center; /* Center the text in the header. */
+}
+
+main { 
+    background-color: lightgrey;/* Give the main a light grey background color. */
+padding: 1em;
+}
